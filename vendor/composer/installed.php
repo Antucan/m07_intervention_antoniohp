@@ -3,7 +3,7 @@
         'name' => 'uf2/joseportugal',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'a22b188e9527c6e108d2daf80834c4fce63cde2d',
+        'reference' => '71862fbc1b72c638607c1a3d5e3c2413259790bb',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -72,7 +72,7 @@
         'uf2/joseportugal' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'a22b188e9527c6e108d2daf80834c4fce63cde2d',
+            'reference' => '71862fbc1b72c638607c1a3d5e3c2413259790bb',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
